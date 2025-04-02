@@ -1,6 +1,6 @@
-import Drawer from '@/ui/Drawer';
-import Navbar from '@/ui/Navbar';
-import { Outlet } from 'react-router-dom';
+import Drawer from "@/ui/Drawer";
+import Navbar from "@/ui/Navbar";
+import { Outlet } from "react-router-dom";
 
 export default function AppLayout() {
   return (

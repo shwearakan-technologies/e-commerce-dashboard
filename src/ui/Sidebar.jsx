@@ -4,9 +4,9 @@ import {
   Settings,
   User,
   Users,
-} from 'lucide-react';
-import Logo from '@/ui/Logo';
-import ListItem from '@/ui/ListItem';
+} from "lucide-react";
+import Logo from "@/ui/Logo";
+import ListItem from "@/ui/ListItem";
 
 export default function Sidebar() {
   return (
