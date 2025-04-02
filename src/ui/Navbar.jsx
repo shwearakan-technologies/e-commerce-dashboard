@@ -1,4 +1,4 @@
-import { Bell, Menu, Sun } from 'lucide-react';
+import { Bell, Menu, Sun } from "lucide-react";
 
 export default function Navbar() {
   return (
